@@ -20,7 +20,7 @@ const Navbar = () => {
           />
 
   <span  className="font-bold ml-[10px] hidden md:block text-violet-500 bg-blur-lg backdrop-filter backdrop-blur-lg bg-violet-500 bg-opacity-30 p-1 rounded-md">
-    Lets Connect
+   <a href="https://linktr.ee/smasoom" target="blank">Lets Connect</a> 
   </span>
 
 
