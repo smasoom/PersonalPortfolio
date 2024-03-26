@@ -1,13 +1,14 @@
-import Encryption from './components/main/Encryption'
+
 import Hero from './components/main/Hero'
 import Skills from './components/main/Skills'
 import Footer from './components/main/Footer'
-
+import Reach from './components/main/Reach'
 
 
 import Image from 'next/image'
 
 import Projects from './components/main/Projects'
+
 
 export default function Home() {
   return (
@@ -18,7 +19,8 @@ export default function Home() {
       <Skills />
       <Projects/>
       <Footer/>
-      <Encryption/>
+     
+      <Reach/>
      </div>
 
   </main>

@@ -19,7 +19,7 @@ const Navbar = () => {
             className="cursor-pointer hover:animate-slowspin"
           />
 
-  <span  className="font-bold ml-[10px] hidden md:block text-violet-500 bg-blur-lg backdrop-filter backdrop-blur-lg bg-violet-500 bg-opacity-30 p-1 rounded-md">
+  <span  className="font-medium ml-[10px] hidden md:block  backdrop-filter  opacity-3 backdrop-blur-lg bg-violet-500 bg-opacity-30 p-1  text-white">
    <a href="https://linktr.ee/smasoom" target="blank">Lets Connect</a> 
   </span>
 
