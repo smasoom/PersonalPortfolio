@@ -15,7 +15,7 @@ const About = () => {
       <div className="absolute top-0 right-0 w-0 h-0 border-l-16 border-b-16 border-transparent border-purple-500"></div>
     </div>
       <div className=" ml-0 lg:flex-grow md:w-1/2 pr- flex flex-col md:items-start md:text-left items-center text-center ">
-        <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Let me introduce myself
+        <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Let me introduce myself...
          
         </h1>
         <p className="mb-8 leading-relaxed ml-0 pr-52">I am Masoom Sahu, 3rd year undergrad in Civil Engineering from NIT Silchar. I am from 
