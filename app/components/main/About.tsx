@@ -29,11 +29,8 @@ hackathons like DPBH 2023, Flipkart Grid, GDSC Explore and proven track record i
 development.  
 I have good leadership quality and management skills as I with my team successfully 
 organised two major North Easts technical offline hackathons NITS Hacks and GDSC 
-Explore in our campus.In addition, I have worked on entrepreneurial competitions and won college events, which gave me some experience in Case Study, Market Research and Analysis.</p>
-        {/* <div className="flex justify-center">
-          <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
-          <button className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">Button</button>
-        </div> */}
+Explore in our campus.In addition, I have worked on entrepreneurial competition and won college events, which gave me some experience in Case Study, Market Research and Analysis.</p>
+        
       </div>
     </div>
   </section>
