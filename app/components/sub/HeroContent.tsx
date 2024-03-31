@@ -60,18 +60,25 @@ By the way, Im a girl, breaking stereotypes in the coding world!
         <motion.a
           variants={slideInFromLeft(1)}
           className="py-2 px-4 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px] mr-4"
+          href="https://www.github.com/smasoom "
+  target="_blank"
         >
           GitHub
         </motion.a>
         <motion.a
           variants={slideInFromLeft(1)}
           className="py-2   px-4 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px] mr-4"
+          href="https://www.leetcode.com/masoom05_20/"
+  target="_blank"
+          
         >
           Leetcode
         </motion.a>
         <motion.a
           variants={slideInFromLeft(1)}
           className="py-2 px-4 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
+          href="https://www.linkedin.com/in/masoom-sahu-09a469230/"
+  target="_blank"
         >
           LinkedIn
         </motion.a>

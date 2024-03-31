@@ -11,14 +11,15 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/NextWebsite.png"
+          src="/cardetect.png"
           title="Modern Next.js Portfolio"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           githubLink="https://github.com/your-username/next-website-repo"
           deployLink="https://your-next-website-deployed-link.com"
         />
         <ProjectCard
-          src="/article.png"
+        src="/port.png"
+        
           title="Summarize Article"
           description="Introducing a dynamic and user-friendly website dedicated to summarizing articles—your one-stop destination for concise and informative content."
           githubLink="https://github.com/your-username/article-summary-repo"
@@ -34,21 +35,21 @@ const Projects = () => {
       </div>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/NextWebsite.png"
+            src="/article.png"
           title="Modern Next.js Portfolio"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           githubLink="https://github.com/your-username/next-website-repo"
           deployLink="https://your-next-website-deployed-link.com"
         />
         <ProjectCard
-          src="/article.png"
+          src="/shadow.png"
           title="Summarize Article"
           description="Introducing a dynamic and user-friendly website dedicated to summarizing articles—your one-stop destination for concise and informative content."
           githubLink="https://github.com/your-username/article-summary-repo"
           deployLink="https://your-article-summary-deployed-link.com"
         />
         <ProjectCard
-          src="/food.jpeg"
+          src="/comment.png"
           title="Space Themed Website"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           githubLink="https://github.com/your-username/space-themed-repo"
