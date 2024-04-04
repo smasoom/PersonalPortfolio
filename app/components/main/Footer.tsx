@@ -43,8 +43,7 @@ const Footer = () => {
             <p className="leading-relaxed"> HSC(Class12th), Board: CBSE
             </p>
             <p>PCM with Computer Science (c++)</p>
-            <p className='bg-gradient-to-r from-blue-600 via-red-500 to-indigo-400 inline-block text-transparent bg-clip-text  font-extrabold'>Percentage : 86.4%</p>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolores repudiandae est quae minima consequuntur labore doloremque laudantium, molestias reprehenderit quibusdam? Cumque officia a disti</p>
+            <p className='bg-gradient-to-r from-blue-600 via-red-500 to-indigo-400 inline-block text-transparent bg-clip-text  font-extrabold'>Upon completing my HSC (Class 12th) with CBSE Board in the Science stream, focusing on Computer Science (C++), I reminisce about a time filled with accomplishments. Excelling in regional sports, taking on the roles of class monitor multiple times, leading as the sports captain of my house, engaging in debates, and earning recognition for singing performances were all part of a rewarding journey.</p>
 
           </div>
         </div>
@@ -59,7 +58,7 @@ const Footer = () => {
             <h2 className="bg-gradient-to-r from-blue-300 via-violet-500 to-blue-400 inline-block text-transparent bg-clip-text  font-medium title-font text-2xl text-white-900 mb-1 tracking-wider">Kendriya Vidyalaya, ONGC Nazira</h2>
             <p className="leading-relaxed "> Secondary School Certificate (Class 10th)</p>
             <p className='bg-gradient-to-r from-blue-600 via-red-500 to-indigo-400 inline-block text-transparent bg-clip-text  font-extrabold'>CGPA : 9.6 / 10</p>
-            <h1> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque eligendi saepe nihil earum. Earum ad atque</h1>
+            <h1> ,</h1>
           </div>
         </div>
       </div>

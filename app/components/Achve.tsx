@@ -17,7 +17,8 @@ const Achve = () => {
         </div>
         <div className="md:flex-grow">
           <h2 className="text-2xl font-bold text-white title-font mb-2">National Institute of Technology,Silchar</h2>
-          <p className="leading-relaxed">Glossier echo park pug, church-key sartorial biodiesel vexillologist pop-up snackwave ramps cornhole. Marfa 3 wolf moon party messenger bag selfies, poke vaporware kombucha lumbersexual pork belly polaroid hoodie portland craft beer.</p>
+          <p className="leading-relaxed">B.Tech| Civil Engineering 
+          <br />Achieved success in multiple entrepreneurial competitions, participated in and reached the finals of hackathons, and made significant contributions to various clubs and the college fest website.</p>
           <button className="flex-shrink-0 text-white hover:bg-slate-500 border-0 py-2 px-8 focus:outline-none bg-purple-600 rounded text-lg  font-bold mt-10 sm:mt-0">CGPA : 7.91 / 10</button>
 
         </div>
@@ -29,7 +30,9 @@ const Achve = () => {
         </div>
         <div className="md:flex-grow">
           <h2 className="text-2xl font-bold text-white title-font mb-2 ">Kendriya Vidyalaya, ONGC Nazira</h2>
-          <p className="leading-relaxed">Glossier echo park pug, church-key sartorial biodiesel vexillologist pop-up snackwave ramps cornhole. Marfa 3 wolf moon party messenger bag selfies, poke vaporware kombucha lumbersexual pork belly polaroid hoodie portland craft beer.</p>
+          <p className="leading-relaxed"> HSC (Class12th)   PCM with Computer Science (c++) | Board: CBSE <br />I delved into learning C++ from scratch, covering essential topics like Object-Oriented Programming (OOPs) and SQL. This journey marked the beginning of my deep interest and passion for coding.
+            </p>
+            
           <a className="text-purple-400 inline-flex items-center mt-4">
           <button className="flex-shrink-0 text-white hover:bg-slate-500 border-0 py-2 pr-8 pl-2 focus:outline-none bg-purple-600 rounded text-lg  font-bold mt-10 sm:mt-0">Percentage : 86.4%</button>
           </a>
@@ -42,7 +45,7 @@ const Achve = () => {
         </div>
         <div className="md:flex-grow">
           <h2 className="text-2xl font-bold text-white title-font mb-2">Kendriya Vidyalaya, ONGC Nazira</h2>
-          <p className="leading-relaxed">Glossier echo park pug, church-key sartorial biodiesel vexillologist pop-up snackwave ramps cornhole. Marfa 3 wolf moon party messenger bag selfies, poke vaporware kombucha lumbersexual pork belly polaroid hoodie portland craft beer.</p>
+          <p className="leading-relaxed"> SSC(Class 10th) <br /> I reminisce about a time filled with accomplishments. Excelling in regional sports, taking on the roles of class monitor multiple times, leading as the sports captain of my house, engaging in debates, and earning recognition for singing performances were all part of a rewarding journey.</p>
           <a className="text-purple-400 inline-flex items-center mt-4">
           <button className="flex-shrink-0 text-white hover:bg-slate-500 border-0 py-2 px-8 focus:outline-none bg-purple-600 rounded text-lg  font-bold mt-10 sm:mt-0">CGPA : 9.6 / 10</button>
           </a>

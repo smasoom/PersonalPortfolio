@@ -24,13 +24,13 @@ const HeroContent = () => {
         >
           <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
           <h1 className="Welcome-text text-[13px]">
-            Fullstack Developer Portfolio
+            Fullstack Developer 
           </h1>
         </motion.div>
 
         <motion.div
           variants={slideInFromLeft(0.5)}
-          className="flex flex-col gap-6 mt-6 text-6xl font-bold text-white max-w-[600px] w-auto h-auto"
+          className="flex flex-col gap-6 mt-1 text-6xl font-bold text-white max-w-[600px] w-auto h-auto"
         >
           <span>
             HeY I&apos;m
@@ -38,23 +38,18 @@ const HeroContent = () => {
               {" "}
               Masoom Sahu{" "}.
             </span>
-            Tech Devotee.
+            
 
-
-
-
-
-
-          </span>
+ </span>
         </motion.div>
 
         <motion.p
           variants={slideInFromLeft(0.8)}
-          className="text-lg text-gray-400 my-5 max-w-[600px]"
+          className="text-lg text-gray-400  max-w-[600px]"
         >
           I&apos;m a developer driven by curiosity, mastering new technologies with passion.
 
-By the way, Im a girl, breaking stereotypes in the coding world!
+          Built this Portfolio using NextJS and Tailwind CSS, incorporating Motion UI for dynamic and visually appealing user interactions.
         </motion.p>
         <div className="flex">
         <motion.a

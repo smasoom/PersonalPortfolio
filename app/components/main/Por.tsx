@@ -13,10 +13,7 @@ const Por = () => {
             <div className="h-full text-center">
              <div className="text-3xl font-bold bg-gradient-to-r from-blue-300 via-violet-500 to-blue-400 inline-block text-transparent bg-clip-text"> <h1>Core Member(WEB domain) GDSC NITS</h1></div>
               <p className="leading-relaxed">
-                Edison bulb retro cloud bread echo park, helvetica stumptown
-                taiyaki taxidermy 90s cronut +1 kinfolk. Single-origin coffee
-                ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut
-                adaptogen squid fanny pack vaporware.
+              Executed multiple impactful projects dedicated to assisting college students.Organized workshops on web domain for juniors, empowering them with webapp development skills and knowledge and activities related to technology and development.
               </p>
               
               <span className="inline-block h-1 w-10 rounded bg-purple-500 mt-6 mb-4"></span>
@@ -33,10 +30,7 @@ const Por = () => {
             <div className="h-full text-center">
             <div className="text-3xl font-bold bg-gradient-to-r from-blue-300 via-violet-500 to-blue-400 inline-block text-transparent bg-clip-text"> <h1> Media and Design Member NitsMUN</h1></div>
               <p className="leading-relaxed">
-                Edison bulb retro cloud bread echo park, helvetica stumptown
-                taiyaki taxidermy 90s cronut +1 kinfolk. Single-origin coffee
-                ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut
-                adaptogen squid fanny pack vaporware.
+              Contributed to design aspects by creating visually appealing presentations, posters, and other materials for MUN events.Collaborated with team members to develop creative strategies for effective communication and outreach during MUN sessions.
               </p>
               <span className="inline-block h-1 w-10 rounded bg-purple-500 mt-6 mb-4"></span>
               <h2 className="text-white font-medium title-font tracking-wider text-sm">
@@ -52,10 +46,10 @@ const Por = () => {
             <div className="h-full text-center">
             <div className="text-3xl font-bold bg-gradient-to-r from-blue-300 via-violet-500 to-blue-400 inline-block text-transparent bg-clip-text"> <h1>NITSHACK Hackathon, Organising Team member</h1></div>
               <p className="leading-relaxed">
-                Edison bulb retro cloud bread echo park, helvetica stumptown
-                taiyaki taxidermy 90s cronut +1 kinfolk. Single-origin coffee
-                ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut
-                adaptogen squid fanny pack vaporware.
+    
+
+Managing timelines and schedules to keep the hackathon on track and ensure deadlines are met.
+Supporting teams with   Identifying potential sponsors, technical assistance, mentoring, and troubleshooting during the hackathon.
               </p>
               <span className="inline-block h-1 w-10 rounded bg-purple-500 mt-6 mb-4"></span>
               <h2 className="text-white font-medium title-font tracking-wider text-sm">
