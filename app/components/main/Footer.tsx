@@ -23,7 +23,7 @@ const Footer = () => {
           <div className="flex-grow pl-4">
             <h2 className="bg-gradient-to-r from-blue-300 via-violet-500 to-blue-400 inline-block text-transparent bg-clip-text font-medium title-font text-2xl text-white-900 mb-1 tracking-wider ">National Institute of Technology,Silchar.</h2>
             <p className="leading-relaxed">B.Tech| Civil Engineering</p>
-            <p className='bg-gradient-to-r from-blue-600 via-red-500 to-indigo-400 inline-block text-transparent bg-clip-text  font-extrabold'>CGPA: 7.91 /10 </p>
+            <p className='bg-gradient-to-r from-blue-600 via-red-500 to-indigo-400 inline-block text-transparent bg-clip-text  font-extrabold'>CGPA: 8.02 /10 </p>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat non magni similique officiis? Architecto rem et earum delectus quos aliquid eum, fugia
             </p>
           </div>
