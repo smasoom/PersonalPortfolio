@@ -3,7 +3,7 @@ import React from "react";
 const Achve = () => {
   return (
     <div>
- <div className="flex justify-center  mb-16 ">
+ <div  id="education" className="flex justify-center  mb-16 ">
         <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500  ">
         My Education      </h1></div>
     <section className="text-gray-400 bg-gray-900 body-font overflow-hidden">
@@ -19,7 +19,7 @@ const Achve = () => {
           <h2 className="text-2xl font-bold text-white title-font mb-2">National Institute of Technology,Silchar</h2>
           <p className="leading-relaxed">B.Tech| Civil Engineering 
           <br />Achieved success in multiple entrepreneurial competitions, participated in and reached the finals of hackathons, and made significant contributions to various clubs and the college fest website.</p>
-          <button className="flex-shrink-0 text-white hover:bg-slate-500 border-0 py-2 px-8 focus:outline-none bg-purple-600 rounded text-lg  font-bold mt-10 sm:mt-0">CGPA : 7.91 / 10</button>
+          <button className="flex-shrink-0 text-white hover:bg-slate-500 border-0 py-2 px-8 focus:outline-none bg-purple-600 rounded text-lg  font-bold mt-10 sm:mt-0">CGPA : 8.01 / 10</button>
 
         </div>
       </div>

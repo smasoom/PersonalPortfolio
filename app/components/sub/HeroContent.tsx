@@ -24,7 +24,7 @@ const HeroContent = () => {
         >
           <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
           <h1 className="Welcome-text text-[13px]">
-            Fullstack Developer 
+            Fullstack Developer
           </h1>
         </motion.div>
 
@@ -36,47 +36,45 @@ const HeroContent = () => {
             HeY I&apos;m
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               {" "}
-              Masoom Sahu{" "}.
+              Masoom Sahu{" "} .
             </span>
-            
-
- </span>
+          </span>
         </motion.div>
 
         <motion.p
           variants={slideInFromLeft(0.8)}
-          className="text-lg text-gray-400  max-w-[600px]"
+          className="text-lg text-gray-400 max-w-[600px]"
         >
           I&apos;m a developer driven by curiosity, mastering new technologies with passion.
-
           Built this Portfolio using NextJS and Tailwind CSS, incorporating Motion UI for dynamic and visually appealing user interactions.
         </motion.p>
-        <div className="flex">
-        <motion.a
-          variants={slideInFromLeft(1)}
-          className="py-2 px-4 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px] mr-4"
-          href="https://www.github.com/smasoom "
-  target="_blank"
-        >
-          GitHub
-        </motion.a>
-        <motion.a
-          variants={slideInFromLeft(1)}
-          className="py-2   px-4 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px] mr-4"
-          href="https://www.leetcode.com/masoom05_20/"
-  target="_blank"
-          
-        >
-          Leetcode
-        </motion.a>
-        <motion.a
-          variants={slideInFromLeft(1)}
-          className="py-2 px-4 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
-          href="https://www.linkedin.com/in/masoom-sahu-09a469230/"
-  target="_blank"
-        >
-          LinkedIn
-        </motion.a>
+        
+        <div className="flex flex-wrap gap-4">
+          <motion.a
+            variants={slideInFromLeft(1)}
+            className="py-2 px-4 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
+            href="https://www.github.com/smasoom"
+            target="_blank"
+          >
+            GitHub
+          </motion.a>
+          <motion.a
+            variants={slideInFromLeft(1)}
+            className="py-2 px-4 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
+            href="https://www.leetcode.com/masoom05_20/"
+            target="_blank"
+          >
+            Leetcode
+          </motion.a>
+          <motion.a
+            variants={slideInFromLeft(1)}
+            className="py-2 px-4 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
+            href="https://www.linkedin.com/in/masoom-sahu-09a469230/"
+            target="_blank"
+          >
+            LinkedIn
+          </motion.a>
+        
         </div>
       </div>
 
